@@ -1,8 +1,8 @@
 ## :)
 <div>
   <a href="https://github.com/lucastristaooo">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=lucastristaooo&show_icons=false&theme=dark&include_all_commits=true&count_private=true"/>
-  <img align="right" alt="Rafa-pic" height="100" style="border-radius:50px;" src="https://imgur.com/nmwuDNc.png">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucastristaooo&show_icons=false&theme=dark&include_all_commits=true&count_private=true"/>
+  <img align="right" alt="Rafa-pic" height="55" style="border-radius:50px;" src="https://imgur.com/nmwuDNc.png">
   <img height="125em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucastristaooo&layout=compact&langs_count=7&theme=dark"/>
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
