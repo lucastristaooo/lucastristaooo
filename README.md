@@ -38,6 +38,6 @@
     
 <p><img align="right" alt="Rafa-pic" height="170" style="border-radius:50px;" src="https://imgur.com/xVEjvEQ.png"
 
-<p>&nbsp;<img align="left" height="170em" src="https://github-readme-stats.vercel.app/api?username=lucastristaooo&show_icons=false&theme=dark&include_all_commits=true&count_private=true&locale:en" alt="lucastristaooo" /></p>
+<p>&nbsp;<img align="left" height="169em" src="https://github-readme-stats.vercel.app/api?username=lucastristaooo&show_icons=false&theme=dark&include_all_commits=true&count_private=true&locale:en" alt="lucastristaooo" /></p>
 
 <p><img align="center" height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=lucastristaooo&&show_icons=false&theme=dark&include_all_commits=true&count_private=truelocale:en" alt="lucastristaooo" /></p>
