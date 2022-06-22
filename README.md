@@ -1,7 +1,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucastristaooo&label=Profile%20views&color=0e75b6&style=flat" alt="lucastristaooo" /> </p>
-
-
-## :) 
+<p><img align="center" alt="Rafa-pic" height="170" style="border-radius:50px;" src="https://imgur.com/nmwuDNc.png"
+        
+        
+##
 
 
 <div>
@@ -35,9 +36,8 @@
 
 <p><img align="left" height="110em" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucastristaooo&show_icons=true&locale=en&layout=compact&langs_count=7&theme=dark" alt="lucastristaooo" /></p>
     
-<p><img align="right" alt="Rafa-pic" height="170" style="border-radius:50px;" src="https://imgur.com/nmwuDNc.png"
-        <p><img align="left" alt="Rafa-pic" height="170" style="border-radius:50px;" src="https://imgur.com/xVEjvEQ.png"
+<p><img align="right" alt="Rafa-pic" height="170" style="border-radius:50px;" src="https://imgur.com/xVEjvEQ.png"
 
-<p>&nbsp;<img align="right" height="170em" src="https://github-readme-stats.vercel.app/api?username=lucastristaooo&show_icons=false&theme=dark&include_all_commits=true&count_private=true&locale:en" alt="lucastristaooo" /></p>
+<p>&nbsp;<img align="left" height="170em" src="https://github-readme-stats.vercel.app/api?username=lucastristaooo&show_icons=false&theme=dark&include_all_commits=true&count_private=true&locale:en" alt="lucastristaooo" /></p>
 
-<p><img align="left" height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=lucastristaooo&&show_icons=false&theme=dark&include_all_commits=true&count_private=truelocale:en" alt="lucastristaooo" /></p>
+<p><img align="right" height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=lucastristaooo&&show_icons=false&theme=dark&include_all_commits=true&count_private=truelocale:en" alt="lucastristaooo" /></p>
