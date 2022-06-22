@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lucastristaooo&label=Profile%20views&color=0e75b6&style=flat" alt="lucastristaooo" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=lucastristaooo&label=Profile%20views&color=0e75b6&style=flat" alt="lucastristaooo" /> </p>
 <p><img align="center" alt="Rafa-pic" height="170" style="border-radius:50px;" src="https://imgur.com/nmwuDNc.png"
         
         
