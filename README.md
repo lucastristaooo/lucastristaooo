@@ -2,7 +2,7 @@
 <p><img align="center" alt="Rafa-pic" height="170" style="border-radius:50px;" src="https://imgur.com/nmwuDNc.png"
       
         
-     🪵Currently learning and working on background python
+     🪵Currently learning and working on python
 ##
 
 
