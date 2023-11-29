@@ -1,7 +1,7 @@
 ##
 
 <div>
-  <p><strong>Hello, my name is Lucas. I'm a front-end developer who's passionate about web development and design. I'm now majoring in systems analysis and development and developing in HTML, CSS, front-end languages like Javascript and PHP, frameworks as React, and WordPress. My main goals are to learn as much as possible and create impactful things in people's lives. I appreciate your visit to my profile and hope you enjoy it!</strong></p>
+  <p><strong>Hello, my name is Lucas. I'm a front-end developer who's passionate about web development and design. I'm now majoring in systems analysis and development and developing in HTML, CSS, front-end languages like Javascript and PHP, frameworks such as React, and WordPress. My main goals are to learn as much as possible and create impactful things in people's lives. I appreciate your visit to my profile and hope you enjoy it!</strong></p>
   <p>You can also look at my portfolio below.</p>
   <p><img align="right" alt="pic" src="https://gist.githubusercontent.com/theAdityaNVS/f5b585d1082da2dffffea32434f37956/raw/7f9552d0a179b4f84059259fa878199e369b069c/GitHub-logo.gif"></p>
   <p><a href="https://lucastristaooo.github.io/Portifolio" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a></p>
